@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parágrafos</title>
+</head>
+<body>
+    <h1>Parágrafos e quebra de linhas.</h1>
+    <hr>
+    <p>Você pode escrever o parágrafo de qualquer jeito. Basta colocar o parágrafo entra as tags &lt;p&gt; &lt;/p&gt; <!-- LT = Less Than / GT = Greater Than-->
+    <p>Se precisar quebrar o texto em algum lugar especifico basta usar a tag &lt;br&gt;</p>
+    <p>Vamos adicionar alguns simbolos especiais:
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &pound;
+        &yen;
+        &cent;
+        &Delta;
+        &delta;
+        &uparrow;
+        <!-- Site com muitos simbolos: https://www.w3schools.com/charsets/ref_utf_symbols.asp -->
+    </p>
+    <p>Vamos adicionar alguns emoji:
+        &#x1F44D;
+        &#x1F62B;
+        <!-- Ache muitos emojis aqui: https://emojipedia.org/  -->
+    </p>
+</body>
+</html>
