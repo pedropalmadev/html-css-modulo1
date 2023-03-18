@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <title>Hierarquia de Títulos</title>
+</head>
+<body>
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h3>Justificação da Temática</h3>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam dolorum natus modi consequuntur provident unde, a architecto? Saepe nemo vero animi, sint itaque possimus reiciendis. Ducimus sint architecto deleniti aut.</p>
+    <h3>Caráter Excecional</h3>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque inventore temporibus tempora assumenda suscipit dolores sapiente, earum reprehenderit blanditiis debitis sit quasi explicabo nemo aliquid. Ab perspiciatis reprehenderit possimus quia?</p>
+    <h3>Perguntas de partida</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem veniam quae perspiciatis enim molestias velit illo asperiores ullam praesentium dolorum reprehenderit quos officia, quibusdam deleniti vel, illum maxime tempore accusamus?</p>
+    <h3>Metodologia de Investigação</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto corporis assumenda explicabo asperiores soluta sed voluptatum eius aut fugit quidem nostrum eum, quisquam atque consequuntur natus error eaque maiores excepturi.</p>
+    <h4>Etapas de Investigação</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto corporis assumenda explicabo asperiores soluta sed voluptatum eius aut fugit quidem nostrum eum, quisquam atque consequuntur natus error eaque maiores excepturi.</p>
+    <h4>Instrumentos de analise</h4>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto corporis assumenda explicabo asperiores soluta sed voluptatum eius aut fugit quidem nostrum eum, quisquam atque consequuntur natus error eaque maiores excepturi.</p>
+    <h2>Ordenamento do território em Portugal - Instrumentos e atores</h2>
+    <h3>Os intrumentos de gestão</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto corporis assumenda explicabo asperiores soluta sed voluptatum eius aut fugit quidem nostrum eum, quisquam atque consequuntur natus error eaque maiores excepturi.</p>
+    <h3>Regimes territoriais</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto corporis assumenda explicabo asperiores soluta sed voluptatum eius aut fugit quidem nostrum eum, quisquam atque consequuntur natus error eaque maiores excepturi.</p>
+</body>
+</html>
