@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com links</title>
+</head>
+<body>
+    <h1>Usando links externos</h1>
+    <p>Você pode acessar meu <a href="https://github.com/pedropalmadev" target="_blank" rel="external">GitHub</a></p>
+    <p>Você também acessar meu <a href="https://www.youtube.com/">YouTube</a></p>
+
+    <h1>Usando links internos</h1>
+    <p>Esta é a primeira página do site entre para a <a href="pag002.html" rel="next">segunda página</a></p>
+    <p>Minha página de <a href="Noticias/pag003.html" rel="next">notícias</a></p>
+
+    <h1>Links para download</h1>
+    <ul>   
+        <li><a href="livros/Documento 33 (1).pdf" download="Documento 33 (1).pdf" type="application/pdf">Baixa link em PDF</a></li>
+        <li><a href="livros/Documento33.zip" download="Documento33.zip" type="application/zip">Livros compactado em ZIP</a></li>
+    </ul>
+</body>
+</html>
+
+
+
+<!-- pág002.html abaixo -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página 2</title>
+</head>
+<body>
+    <h1> Está e a segunda pagina</h1>
+    <p>Está aqui a segunda pagina</p>
+    <p>Esta página é um oferecimento do <a href="https://www.instagram.com/" target="_blank" rel="nofollow">Instagram</a></p>
+    <p> Volte <a href="index.html" rel="prev">aqui</a></p>
+</body>
+</html>
