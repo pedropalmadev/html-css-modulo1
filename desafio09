@@ -1,0 +1,109 @@
+<!-- Pagina menu -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos para assistir</title>
+</head>
+<body>
+    <h1>Vídeos legais para você assistir!</h1>
+    <a href="html.html"><img src="imagens/thumb-html.png" alt="html"></a>
+    <a href="hardwa.html"><img src="imagens/thumb-hardware.png" alt=""></a> <br>
+    <a href="javascript.html"><img src="imagens/thumb-js.png" alt=""></a>
+    <a href="python.html"><img src="imagens/thumb-python.png" alt=""></a>
+</body>
+</html>
+
+<!-- Página html -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <style>
+        body{
+            background-color: rgb(139, 135, 135);
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html</title>
+</head>
+<body>
+    <h1>Acesse o curso de html</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/epDCjksKMok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3><a href="https://www.youtube.com/watch?v=epDCjksKMok&list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o" target="_blank">Veja o curso completo</a></h3>
+    
+    <br><a href="1index.html"><img src="imagens/voltar.png" alt="voltar"></a>
+</body>
+</html>
+
+<!-- Página hardware-->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <style>
+        body{
+            background-color: rgb(139, 135, 135);
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hardware</title>
+</head>
+<body>
+    <h1>Acesse o curso de Hardware</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iT6E92Kt38o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3><a href="https://www.youtube.com/watch?v=iT6E92Kt38o&list=PLHz_AreHm4dn1JHgN9wpbIUhzZmycYQXW" target="_blank">Veja o curso completo aqui</a></h3>
+    
+    <br><a href="1index.html"><img src="imagens/voltar.png" alt="voltar"></a>
+</body>
+</html>
+
+<!-- Página javascript -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <style>
+        body{
+            background-color: rgb(139, 135, 135);
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript</title>
+</head>
+<body>
+    <h1>Acesse o curso de JavaScript</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1-w1RfGIov4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3><a href="https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1" target="_blank">Veja o curso completo aqui</a></h3>
+    
+    <br><a href="1index.html"><img src="imagens/voltar.png" alt="voltar"></a>
+</body>
+</html>
+
+<!-- Página python -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <style>
+        body{
+            background-color: rgb(139, 135, 135);
+        }
+    </style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python</title>
+</head>
+<body>
+    <h1>Acesse o curso de Python</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/S9uPNppGsGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h3><a href="https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6" target="_blank">Veja o curso completo aqui</a></h3>
+    
+    <br><a href="1index.html"><img src="imagens/voltar.png" alt="voltar"></a>
+</body>
+</html>
