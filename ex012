@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formato de vídeo</title>
+</head>
+<body>
+    <h1>Inserindo vídeos hospedados localmente</h1>
+    <p>Este vídeo está sendo hospedado em meu próprio servidor</p>
+    <video width="200" height="360" poster="imagens/thumb-1.png" controls loop>
+        <source src="midia/Meu-Video1pac.webm" type="video/webm">
+        <source src="midia/Meu-Video1pac.mp4" type="video/mp4">
+        <source src="midia/Meu-Video1pac.mkv" type="video/mkv">
+        <source src="midia/Meu-Video1pac.ogv" type="video/ogv">
+        <p>Seu navegador não tem compatibilidade com vídeos! Baixe o vídeo <a href="midia/Meu-Video1pac.mp4">aqui</a>, para conseguir visualizá-lo</p>
+    </video>
+    <h1>Inserindo vídeos do YouTube</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OzUnqQk4eOg?start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     
+    <!-- Usar pelo YouTube, além de ser muito mais leve, ele sobe mais o seu site com relação com o vídeo-->
+
+</body>
+</html>
